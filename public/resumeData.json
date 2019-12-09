@@ -19,6 +19,12 @@
   "resume": {
     "skillmessage": "Voici les technologies que j'ai pu étudier jusqu'à maintenant.",
     "education": [ {
+        "school": "CNAM de Lille",
+        "degree": "Titre RNCP de niveau III Téchnicien Développeur",
+        "graduated": "Depuis novembre 2019",
+        "description": "Technicien Développeur"
+      },
+      {
         "school": "Lycée Gaston Berger",
         "degree": "BTS SIO option SLAM",
         "graduated": "",
@@ -83,6 +89,10 @@
       {
         "name": "SQL",
         "level": "60%"
+      },
+      {
+        "name": "JAVA",
+        "level": "20%"
       }
     ]
   },
