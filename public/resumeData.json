@@ -4,7 +4,7 @@
     "occupation": "Lille",
     "description": "Je cherche un stage de fin de cursus pour la formation Technicien Développeur du CNAM de Lille. Le stage doit durer 3 mois et me permettra d'être certifié RNCP de niveau III (Bac +2).",
     "image": "profilepic.jpg",
-    "bio": "J'ai pu acquérir durant ma première année de BTS SIO de l'expérience concernant le développement web, notamment HTML5/CSS3, JavaScript, ainsi que des outils de pointe dans le domaine web comme ReactJS, Prisma et GraphQL.",
+    "bio": "J'ai pu acquérir durant ma formation au CNAM de Lille des bagages dans des technologies de pointe actuels. Notamment en JAVA, C++ et je suis également passionné de développement web, notamment React.js",
     "contactmessage": "Si vous avez des questions me concernant, ou l'envie de me faire rejoindre votre équipe, vous pouvez me laisser un message dans cette section",
     "email": "louison59279@gmail.com",
     "phone": "06 29 21 79 59",
@@ -92,7 +92,7 @@
       },
       {
         "name": "JAVA",
-        "level": "20%"
+        "level": "40%"
       }
     ]
   },
